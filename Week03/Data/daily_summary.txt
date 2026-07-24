@@ -1,0 +1,6 @@
+{
+    "total_transactions": 5,
+    "total_debits": 2450.00,
+    "total_credits": 30000.00,
+    "net_amount": 27550.00
+}

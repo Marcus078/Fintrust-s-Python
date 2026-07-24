@@ -1,0 +1,6 @@
+transaction_id,account_id,transaction_type,amount,description
+1,1,DEBIT,450.00,Woolworths Food JHB
+2,1,DEBIT,1200.00,Cape Union Mart Online
+3,1,CREDIT,25000.00,Salary - Praesignis
+4,2,CREDIT,5000.00,Transfer from Savings
+5,3,DEBIT,800.00,Takealot.com

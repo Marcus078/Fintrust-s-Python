@@ -1,0 +1,8 @@
+2026-07-24 14:10:02  INFO      fintrust.pipeline  Starting transaction processing
+2026-07-24 14:10:02  INFO      fintrust.pipeline  Loaded 5 transaction records
+2026-07-24 14:10:02  INFO      fintrust.pipeline  Validating transaction data
+2026-07-24 14:10:02  WARNING   fintrust.pipeline  Skipped transaction T006: Invalid amount
+2026-07-24 14:10:03  INFO      fintrust.pipeline  Generated clean_transactions.csv
+2026-07-24 14:10:03  INFO      fintrust.pipeline  Generated daily_summary.json
+2026-07-24 14:10:03  INFO      fintrust.pipeline  Processing complete
+2026-07-24 14:10:03  INFO      fintrust.pipeline  Transaction pipeline finished
